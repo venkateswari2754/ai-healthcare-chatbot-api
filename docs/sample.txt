@@ -1,0 +1,7 @@
+This is a sample document for testing the RAG system.
+
+Healthcare equipment includes ultrasound machines, X-ray devices, and MRI scanners.
+
+Warranty periods vary by manufacturer, typically 1-5 years.
+
+AMC contracts provide annual maintenance services.
